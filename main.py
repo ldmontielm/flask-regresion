@@ -38,4 +38,4 @@ def predict():
 
 # Iniciar la aplicación si este script es el punto de entrada
 if __name__ == '__main__':
-    app.run(debug=True)  # Iniciar la aplicación Flask
+    app.run()  # Iniciar la aplicación Flask
